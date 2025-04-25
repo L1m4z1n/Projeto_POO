@@ -3,4 +3,5 @@ li a {
 }
 body {
     background: white url("images/background.webp") no-repeat;
+    background-size: cover;
 }
